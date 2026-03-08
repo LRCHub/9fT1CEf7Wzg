@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ポン・デ・リプレイ",
+  "base_artist": "Rihanna",
+  "createdAt": "2026-03-08T15:05:10.100682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポン・デ・リプレイ",
+      "artist": "Rhianna",
+      "has_synced": true,
+      "path": "select/01_ポン・デ・リプレイ_Rhianna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pon De Replay",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_Pon_De_Replay_Rihanna.txt"
+    }
+  ]
+}
